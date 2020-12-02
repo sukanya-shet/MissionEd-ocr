@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717753261386",
+    "firebase_url": "https://ocr-trial-app.firebaseio.com",
+    "project_id": "ocr-trial-app",
+    "storage_bucket": "ocr-trial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717753261386:android:901033cc108d4e006635b3",
+        "android_client_info": {
+          "package_name": "com.example.mlKit_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717753261386-bocg4207hkqdfqr0grr7vv5gniomc0es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UL8upB5_HIiMqLM84k2NQacS22MmVJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717753261386-bocg4207hkqdfqr0grr7vv5gniomc0es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
